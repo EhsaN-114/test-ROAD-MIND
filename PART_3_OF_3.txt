@@ -1,0 +1,5 @@
+Roadmind — part 3 of 3: Video, scripts, deploy and docs
+
+Unzip all 3 parts into the SAME folder (let Windows merge the folders).
+The app only works when all 3 parts are there.
+Then follow START_HERE.md (in part 3).
